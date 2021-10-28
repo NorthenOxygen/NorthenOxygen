@@ -2,4 +2,4 @@
 - 👀 I’m interested in UI Design and build mobile apps with dart/flutter
 - 🌱 I’m currently learning dart/flutter
 - 💞️ I’m looking to collaborate on Mobile Apps and UI Design
-- 📫 How to reach me <a href="mailto:azrulamry20@gmail.com">azrulamry20@gmai.com</a>
+- 📫 How to reach me <a href="mailto:azrulamry20@gmail.com">azrulamry20@gmail.com</a>
